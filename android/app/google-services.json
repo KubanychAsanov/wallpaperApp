@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027156409569",
+    "project_id": "react-wallpaper-74d74",
+    "storage_bucket": "react-wallpaper-74d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027156409569:android:8c7a6d32a2942aa75ecba0",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027156409569-f623n55ppgfqlt8sv19o3vdk14rd2i2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRW7yr14yz8lxKAHyDSPbbLBKNBfjpLII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027156409569-f623n55ppgfqlt8sv19o3vdk14rd2i2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
